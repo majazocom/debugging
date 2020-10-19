@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+header {
+    background-color: #368774;
+}
+header h1 {
+    line-height: 100px;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    color: white;
+}
+.image-container {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
