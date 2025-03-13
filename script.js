@@ -54,7 +54,7 @@ let imgSix = document.querySelector('#image6');
 imgSix.addEventListner('click', changePic);
 
 function changePic() {
-    imgSix.src = 'https://example.com/newimage.jpg';
+    imgSix.src = 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/shiny/94.png';
 }
 
 let imgSix = document.querySelector('#image6');
